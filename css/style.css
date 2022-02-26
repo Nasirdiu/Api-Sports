@@ -1,0 +1,14 @@
+.col{
+
+    margin-top: 20px;
+}
+#male{
+    display: none;
+}
+#female{
+    display: none;
+}
+#spanner{
+    display: none;
+    width: 10%;
+}
